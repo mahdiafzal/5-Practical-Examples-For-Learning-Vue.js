@@ -1,1 +1,1 @@
-# <a href="https://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework">5-Practical-Examples-For-Learning-Vue.js</a>
+# <a href="https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js" target="_blank">5-Practical-Examples-For-Learning-Vue.js</a>
